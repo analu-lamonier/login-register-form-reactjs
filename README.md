@@ -1,8 +1,8 @@
-# React + Vite
+# Formulário de Login e de Cadastro - React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um formulário de Login e Cadastro desenvolvido com React.js. Ele permite a navegação entre as páginas sem recarregar a página inteira, utilizando o React Router DOM para gerenciar as rotas.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js 
+- React Router DOM
